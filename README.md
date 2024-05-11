@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+Welcome to my Github profile. I'm going to start listing personal projects here.
+
+| Project | Repo | Status
+| --- | --- | --- |
+| [Random Name Generator](https://random-name-generators-svelte.pages.dev/us-data) | [Github](https://github.com/vitaminh/random-name-generators-svelte) | In Progress |
+
 <!--
 **vitaminh/vitaminh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
