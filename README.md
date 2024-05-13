@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Welcome to my Github profile. I'm going to start listing personal projects here.
+Welcome to my Github profile!
 
 | Project | Repo | Status
 | --- | --- | --- |
